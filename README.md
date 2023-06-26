@@ -10,9 +10,9 @@ I'm Pushpendra, an aspiring software developer currently pursuing my undergradua
 
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pps-19012&show_icons=true&locale=en" alt="pps-19012" /></p>
--->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pps-19012&label=Profile%20views&color=0e75b6&style=flat" alt="pps-19012" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pps-19012&label=Profile%20views&color=0e75b6&style=flat" alt="pps-19012" /> </p>
+-->
 ---
 
 _"Life is short, use Python." - Average C++ hater_
