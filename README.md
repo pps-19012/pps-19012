@@ -8,8 +8,9 @@ I'm Pushpendra, an aspiring software developer currently pursuing my undergradua
 - 💡 Apart from software development, I like to solve coding challenges and problems at [Leetcode](https://leetcode.com/pushpendra3000/) and Codeforces.
 - 📫 You can email me at `pushpendra.pratap@iitgn.ac.in` / `pushpendrasingh.19012@gmail.com` or text at `+91 9601160145` to collaborate on cool and interesting projects.
 
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pps-19012&show_icons=true&locale=en" alt="pps-19012" /></p>
-
+-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pps-19012&label=Profile%20views&color=0e75b6&style=flat" alt="pps-19012" /> </p>
 
 ---
