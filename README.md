@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm Pushpendra, an aspiring software developer currently pursuing my undergraduate studies at IIT Gandhinagar.
+
 You can email me at `pushpendra.pratap@iitgn.ac.in` / `pushpendrasingh.19012@gmail.com` or text at `+91 9601160145` to collaborate on cool and interesting projects.
 
 <!--
@@ -8,6 +9,8 @@ You can email me at `pushpendra.pratap@iitgn.ac.in` / `pushpendrasingh.19012@gma
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pps-19012&label=Profile%20views&color=0e75b6&style=flat" alt="pps-19012" /> </p>
 -->
+
+<!--
 ---
 
 _"Life is short, use Python." - Average C++ hater_
