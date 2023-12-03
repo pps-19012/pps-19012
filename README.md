@@ -1,12 +1,7 @@
 ### Hi there 👋
 
-I'm Pushpendra, an aspiring software developer currently pursuing my undergraduate studies at IIT Gandhinagar. Here is a glimpse into my journey and interests in the world of software development.
-
-- 🔭 I’m currently working as an SDE intern in Data Analytics and Infrastructure Services team at [Trading Technologies International, Inc.](https://www.tradingtechnologies.com/).
-- 🌱 I’m currently learning about data migration, services integration and data processing using Apache Spark, AWS and Cassandra.
-- 💻 In order to understand emerging technologies, I have tried my hand at learning about blockchain development and game development through internship, hackathons, and personal projects. I have also contributed to open-source projects related to machine learning and web development.
-- 💡 Apart from software development, I like to solve coding challenges and problems at [Leetcode](https://leetcode.com/pushpendra3000/) and Codeforces.
-- 📫 You can email me at `pushpendra.pratap@iitgn.ac.in` / `pushpendrasingh.19012@gmail.com` or text at `+91 9601160145` to collaborate on cool and interesting projects.
+I'm Pushpendra, an aspiring software developer currently pursuing my undergraduate studies at IIT Gandhinagar.
+You can email me at `pushpendra.pratap@iitgn.ac.in` / `pushpendrasingh.19012@gmail.com` or text at `+91 9601160145` to collaborate on cool and interesting projects.
 
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pps-19012&show_icons=true&locale=en" alt="pps-19012" /></p>
