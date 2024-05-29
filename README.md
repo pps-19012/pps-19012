@@ -2,7 +2,7 @@
 
 I'm Pushpendra, an aspiring software developer currently pursuing my undergraduate studies at IIT Gandhinagar.
 
-You can email me at `pushpendra.pratap@iitgn.ac.in` / `pushpendrasingh.19012@gmail.com` or text at `+91 9601160145` to collaborate on cool and interesting projects.
+You can email me at `pushpendrasingh.19012@gmail.com` or text at `+91 9601160145` to collaborate on cool and interesting projects.
 
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pps-19012&show_icons=true&locale=en" alt="pps-19012" /></p>
