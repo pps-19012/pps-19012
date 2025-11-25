@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Pushpendra, working as a Software Engineer currently at [Trading Technologies International, Inc](https://github.com/tradingtechnologies). I have completed my undergraduation from IIT Gandhinagar with minors in Computer Science and majors in Electrical Engineering.
+I'm Pushpendra, working as a Software Engineer currently at [Trading Technologies International, Inc](https://github.com/tradingtechnologies). I have completed my undergrad from IIT Gandhinagar with minors in Computer Science and majors in Electrical Engineering.
 
 You can email me at `pushpendrasingh.19012@gmail.com` or text at `+91 9601160145` to collaborate on cool and interesting projects.
 
